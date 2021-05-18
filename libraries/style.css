@@ -125,28 +125,20 @@ a, a:hover {
 	-o-transition: all ease 0.5s;
 }
 
+.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
 
-table { 
-    border-spacing: 125px 25px;
-    border-collapse: separate;
-}
-
-tr {
-    padding: 5px 5px 5px 5px;
-}
+  
 
 .contenttable {
     width:215px; /* or whatever width you want. */
-    max-width:215px; /* or whatever width you want. */
+    max-width:215px; /* or whatever width you want. */ 
     height:300px;
     max-height:300px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     background-color: #FFFDFA;
-}
-
-.center {
-  margin-left: auto; 
-  margin-right: auto;
 }
 
 .contenttable1 {
@@ -157,6 +149,7 @@ tr {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     background-color: #FFFDFA;
 }
+
 
 .textinside {
     padding: 10px 0 0 25px;
